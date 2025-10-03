@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: I create kinetic sculptures that invite steel, wood, and glass to dance with air, vibration, and subtle human presence. Inspired by the mechanics of insect wings, the swings of old clocks, and everyday rituals, my work transforms unnoticed movements into rhythms that reveal the hidden choreography of place. Each piece encourages quiet observation and playful interaction, turning the ordinary into a site of wonder.
-thumbnail: assets/images/ai-created-kinetic-sculpture.png
+thumbnail: assets/images/bc_types.png
 ---
 
 ## Kinetic Sculptures
