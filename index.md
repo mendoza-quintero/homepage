@@ -5,9 +5,9 @@ date: 2024-12-02
 ---
 
 
-## Edrea Mendoza Quintero
+# Edrea Mendoza Quintero
 
-I am a History PhD Candidate focusing on creating more engaging history through emerging technology. This site is built using GitHub Pages, a free platform for web hosting that gives me full control over my content, files, and style.
+I am a History PhD Candidate at the University of New Mexico. My research focuses on Latin American history, specifically women and reproductive rights in Mexico during the 1970s and 1980s. My other interests include Cold War history in Latin America, gender history, social movements, and US-Latin American relations.
 
 {% assign essays = site.pages | where: "homepage", true %}
 {% include card-list.html cards = essays %}
