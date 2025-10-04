@@ -8,34 +8,38 @@ summary: My CV reflects a career at the intersection of creative practice, resea
 thumbnail: assets/images/Augustine_Lateran.jpg
 ---
 
-# Alexandra Ruiz
-Email: aruiz@university.edu • Phone: (505) 555-3482  
+# Edrea Mendoza Quintero
+Email: emendo3@unm.edu
 Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://linkedin.com/in/alexruizdh)  
 
 ---
 
 ## Education
 
-### Ph.D. Candidate, Digital Humanities
-*Southwest State University, Department of History and Digital Studies*, 2021–present  
-- Dissertation (in progress): *Reimagining the Archive: Virtual Museums and Public Engagement in the U.S. Southwest*  
-- Advisor: Dr. Jeff Tran  
+### Ph.D. Candidate, Latin American History
+*University of New Mexico, Department of History*, Expected 2026  
+- Dissertation (in progress): *"Planificar es cuestion de querer": Family Planning in Mexico in the 1970s & 1980s*  
+- Dissertation Chair: Dr. Elizabeth Quay Hutchison
+- Committee Members: Dr. Luis Herrán Ávila, Dr. Shannon Withycombe, and Dr. Jocelyn Olcott
 
-### M.A. Public History
-*University of the Desert*, 2018–2020  
-- Thesis: *Digitizing Memory: Community-Driven Archives in Borderlands History*  
+Examination Fields: Early Latin America -- Race & Ethnicity, Institutional & Political History; Modern Latin America -- U.S.-Latin American Relations, Revolutions & Social Movements, Politics, War, & Nation Building; Gender & Sexuality in Latin American and the U.S. -- Theory & History, Reproduction, Sex & Sexuality
 
-### B.A. History, Minor in Computer Science
-*Canyon State College*, 2014–2018  
+### M.A. History
+*Louisiana State University*, May 2018  
+- Thesis: *Una Soldado en Cada Hija: An Analysis on Women's Illicit Roles in the Mexican Revolution*
+-Chair: Dr. Stephen J. C. Andes  
+
+### B.A. History, Minors in Political Science & Sociology
+*University of Denver*, June 2015
+-Senior Thesis: More than Just a Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution
+-Chair: Dr. Rafael Ioris  
 
 ---
 
-## Areas of Interest
-- Digital public history and virtual museums  
-- Humanistic computing and community engagement  
-- Archival digitization and data visualization  
-- History of the U.S. Southwest and borderlands studies  
-- Pedagogy and digital literacy in the humanities  
+## Research Languages
+- English: Native Language
+-Spanish: Native Language
+French: Average reading and speaking proficiency 
 
 ---
 
