@@ -4,8 +4,8 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 2
-summary: I view lectures as opportunities to model expert thinking and clarify complex ideas, building a strong intellectual foundation for students. From this base, I encourage critical engagement through discussion, writing, and applied projects. My teaching balances structured guidance with interactive learning, helping students navigate challenging material with confidence while fostering curiosity, reflection, and active participation.
-thumbnail: assets/images/great-lecture.jpg
+summary: I believe successful teaching is a combination of student-led activities and comprehensive and engaging lectures that supplement course materials. Readings, lectures, primary source materials, along with individual and group work should come together to create a complete picture of the history being taught. This allows students to have multiple avenues with which to interact with the people, places, and events they are learning about. Assessment should be equally varied so students can find the ways they learn most succesfully and use those tools to succeed.
+thumbnail: assets/images/cuidad universitaria.jpg
 ---
 
 ## How I Approach Teaching
@@ -15,8 +15,8 @@ I believe that the lecture remains one of the most powerful tools for communicat
 {% include figure.html
   class="right"
   width="60%"
-  caption="What a nice view"
-  image-path="/assets/images/bc_types.png"
+  caption="Mexicans during student protests of 1968"
+  image-path="/assets/images/students on bus_1968.jpg"
 %}
 
-While I recognize the appeal of "student-centered" learning approaches, I am cautious of pedagogies that overly decentralize the classroom. Too much emphasis on group work or self-discovery risks leaving students without the necessary scaffolding to interpret what they encounter. Many students enter a course without the background or confidence to teach themselves complex material, and asking them to do so can create confusion rather than empowerment. My goal is to provide a strong intellectual framework through lecture, then invite students to engage critically with that framework through discussion, writing, and application — ensuring that their learning is built on a foundation of clarity, not guesswork.
+Lectures shouold serve as the jumping off point for the ideas and history that will be further covered by readings, primary source analysis, writing activities, and other expressions of knowledge. Assignments, projects, examinations, and writing activities should allow students to connect with course materials in meaningful ways that also reflect the world around them. Group work should be encouraged, not compulsory, to help foster community in the classroom and aid in building students' ability to collaborate with different types of people. For students who need a more individualistic approach to their work, encouraging the use of resources such as meetings with librarians or other students working individually to compare ideas and approaches can still help to foster community and encourage collaboration in different ways.
