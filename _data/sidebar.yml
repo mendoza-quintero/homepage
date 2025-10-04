@@ -2,19 +2,16 @@ settings:
   links_font_weight: normal
 profile:
   image_url: /assets/images/headshot.jpeg
-  alt_text: "Profile photo of Alexandra"
-  name: Alexandra Ruiz
-  description: Digital humanist exploring public history and community engagement. I create virtual museums, 3D reconstructions, and interactive projects to make the U.S. Southwest’s past more accessible and inclusive. <br>Photo by [Ottowagraphics](https://pixabay.com/users/ottawagraphics-3815775/).
+  alt_text: "Profile photo of Edrea"
+  name: Edrea Mendoza Quintero
+  description: Graduate student exploring the connection between federal family planning programs and women's reproductive capabilities in Mexico during the 20th century.
 links:
   - title: UNM Profile
-    url: https://history.unm.edu/people/graduate-students/profiles/jonathan-seyfried.html
+    url: https://history.unm.edu/people/graduate-students/profiles/edrea-mendoza.html
     icon: fas fa-university
-  - title: ORCID
-    url: https://orcid.org/0009-0000-4117-3416
-    icon: fab fa-orcid
   - title: GitHub
-    url: https://github.com/jeseyfried
+    url: 
     icon: fab fa-github
   - title: Bluesky
-    url: https://bsky.app/profile/jonathanseyfried.bsky.social
+    url: 
     icon: fas fa-cloud
