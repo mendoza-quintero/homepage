@@ -17,29 +17,32 @@ Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://l
 ## Education
 
 ### Ph.D. Candidate, Latin American History
-*University of New Mexico, Department of History*, Expected 2026  
-- Dissertation (in progress): *"Planificar es cuestion de querer": Family Planning in Mexico in the 1970s & 1980s*  
+University of New Mexico, Expected 2026  
+- Dissertation (in progress): "Planificar es cuestion de querer": Family Planning in Mexico in the 1970s & 1980s  
 - Dissertation Chair: Dr. Elizabeth Quay Hutchison
 - Committee Members: Dr. Luis Herrán Ávila, Dr. Shannon Withycombe, and Dr. Jocelyn Olcott
 
-Examination Fields: Early Latin America -- Race & Ethnicity, Institutional & Political History; Modern Latin America -- U.S.-Latin American Relations, Revolutions & Social Movements, Politics, War, & Nation Building; Gender & Sexuality in Latin American and the U.S. -- Theory & History, Reproduction, Sex & Sexuality
+Examination Fields:
+- Early Latin America -- Race & Ethnicity, Institutional & Political History
+- Modern Latin America -- U.S.-Latin American Relations, Revolutions & Social Movements, Politics, War, & Nation Building
+- Gender & Sexuality in Latin American and the U.S. -- Theory & History, Reproduction, Sex & Sexuality
 
 ### M.A. History
-*Louisiana State University*, May 2018  
-- Thesis: *Una Soldado en Cada Hija: An Analysis on Women's Illicit Roles in the Mexican Revolution*
--Chair: Dr. Stephen J. C. Andes  
+Louisiana State University, May 2018  
+- Thesis: Una Soldado en Cada Hija: An Analysis on Women's Illicit Roles in the Mexican Revolution
+- Chair: Dr. Stephen J. C. Andes  
 
 ### B.A. History, Minors in Political Science & Sociology
-*University of Denver*, June 2015
--Senior Thesis: More than Just a Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution
--Chair: Dr. Rafael Ioris  
+University of Denver, June 2015
+- Senior Thesis: More than Just a Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution
+- Chair: Dr. Rafael Ioris  
 
 ---
 
 ## Research Languages
 - English: Native Language
--Spanish: Native Language
-French: Average reading and speaking proficiency 
+- Spanish: Native Language
+- French: Average reading and speaking proficiency 
 
 ---
 
