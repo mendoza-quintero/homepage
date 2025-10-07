@@ -5,7 +5,7 @@ css:
 homepage: TRUE
 position: 4
 summary: My CV reflects a career at the intersection of creative practice, research, and pedagogy. It documents publications, grants, teaching, and collaborative projects, showing how my work in digital humanities, kinetic sculpture, and public engagement has evolved over time. This record provides insight into the diverse ways I connect scholarship, creativity, and community impact.
-thumbnail: assets/images/Augustine_Lateran.jpg
+thumbnail: assets/images/the_shot.png
 ---
 
 # Edrea Mendoza Quintero
