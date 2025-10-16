@@ -1,4 +1,4 @@
-baseurl: /portfolio4/
+baseurl: /homepage/
 defaults:
   - scope:
       path: ""
