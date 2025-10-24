@@ -5,18 +5,18 @@
 
 /* --- Color Palette --- */
 :root {
-  --charcoal: #1C1C1C;
+  --charcoal: #6b705c;
   --navy: #0E1A2B;
-  --lime: #48DA9B;
-  --blackgreen: #3a423f;
-  --cream: #c6c4bd;
-  --red: #D62828;
-  --ochre: hsl(48, 100%, 44%);
-  --teal: #009FB7;
+  --lime: #cb997e;
+  --blackgreen: #3f4238;
+  --cream: #ddbea9;
+  --red: #b98b73;
+  --ochre: a5a58d(48, 100%, 44%);
+  --teal: #d4c7b0;
   --sage: #A3B18A;
 
   --text-main: var(--cream);
-  --text-muted: #bcbcbc;
+  --text-muted: #b7b7a4;
   --bg-main: var(--blackgreen);
   --bg-alt: var(--charcoal);
   --accent: var(--lime);
