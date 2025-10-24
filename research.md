@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: My research investigates how digital technology can reimagine public history and expand access to cultural heritage. I focus on virtual museums, interactive 3D reconstructions, and community-driven archives in the U.S. Southwest and borderlands. By integrating data visualization, GIS mapping, and ethical digitization practices, I aim to craft historical narratives that are both inclusive and engaging for diverse audiences.
+summary: My research focuses on federal population control policies as they relate to reproduction in Mexico during the 1970s and 1980s. I examine national sex education programss (which I define broadly to include public information campaigns), the federal finding of contraceotives access, and the debates happening at this time to consider decriminalizing abortion to better understand how the Mexican government used women's reprodutive capabilities to push ideas of responsible parenthood to stem the growing population and limit its economic consequences. Other areas I am interested in, include the Latin American Cold War, the Mexican Revolution, and social movements more broadly in Latin America.
 thumbnail: assets/images/bc_types.png
 ---
 
