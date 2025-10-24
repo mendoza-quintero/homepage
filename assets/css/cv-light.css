@@ -15,15 +15,15 @@
 
 /* --- Color Palette --- */
 :root {
-  --charcoal: #2c2c2c;
-  --navy: #1a2332;
-  --deep-blue: #1e3a5f;
-  --warm-gray: #5a5a5a;
-  --light-gray: #f8f8f8;
-  --border-gray: #e5e5e5;
-  --accent-blue: #2563eb;
-  --accent-gold: #d97706;
-  --success-green: #059669;
+  --charcoal: #364f3a;
+  --navy: #638666;
+  --deep-blue: #90bd92;
+  --warm-gray: #c1d7bf;
+  --light-gray: #f2f0eb;
+  --border-gray: #f2e2c8;
+  --accent-blue: #eabbb1;
+  --accent-gold: #eb9050;
+  --success-green: #bf734f;
 
   --text-main: #1a1a1a;
   --text-muted: #6b7280;
