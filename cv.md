@@ -75,7 +75,7 @@ University of Denver, June 2015
 - Western History: "Reacting to the Past," In Person, Dr. Caleb Richardson
 - "Empires and Commodities," In Person, Dr. Shatam Ray
 - "History of Christianity to 1517," Online, Dr. Donna Ray
-- "History of Christianity deom 1517," Online, Dr. Donna Ray
+- "History of Christianity from 1517," Online, Dr. Donna Ray
 - "Religion in the United States," Online, Dr. Donna Ray
 
 ### Graduate Assistant, Department of History
