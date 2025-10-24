@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: My current projects include my dissertation, past conference papers, guest lectures, and sample syllabi I have put together for practice or as classes I have applied to teach. 
-thumbnail: assets/images/bc_types.png
+thumbnail: assets/images/nos obligan.png
 ---
 
 ## Current Projects
