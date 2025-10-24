@@ -13,8 +13,8 @@ thumbnail: assets/images/nos obligan.png
 {% include figure.html
   class="left"
   width="60%"
-  caption="AI-generated kinetic sculpture"
-  image-path="/assets/images/ai-created-kinetic-sculpture.png"
+  caption="From La Revuelta"
+  image-path="/assets/images/local feminista.png"
 %}
 
 ## Dissertation
