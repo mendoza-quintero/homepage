@@ -10,7 +10,7 @@ thumbnail: assets/images/the_shot.png
 
 # Edrea Mendoza Quintero
 Email: emendo3@unm.edu
-Website: [www.mendoza_quintero.com](https://mendoza-quintero.github.io/homepage//) • [LinkedIn](https://www.linkedin.com/in/edrea-mendoza-quintero-546896a7/)  
+Website: [www.mendoza_quintero.com](https://mendoza-quintero.github.io/homepage//) • [LinkedIn](https://www.linkedin.com/in/edrea-mendoza-quintero/)  
 
 ---
 
