@@ -43,4 +43,4 @@ thumbnail: assets/images/nos obligan.png
 
 [Time Management & Impostor Syndrome](https://drive.google.com/file/d/1IySOTXzCi7n4-zf7WQclB9wGt7UbcRVE/view?usp=share_link)
 
-[Understanding Financial Aid](https://drive.google.com/file/d/1g-HMomJXIESDtXkJo19yxQNoJcmgB1jY/view?usp=share_link)
+[Understanding Financial Aid](https://drive.google.com/file/d/1utY_vRsFjc4VKIjzOGW__E2MD6iXDpBJ/view?usp=share_link)
