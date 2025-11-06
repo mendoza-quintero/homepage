@@ -12,7 +12,7 @@ thumbnail: assets/images/nos obligan.png
 
 {% include figure.html
   class="center"
-  width="20%"
+  width="100%"
   caption="From La Revuelta"
   image-path="/assets/images/local feminista.png"
 %}
