@@ -11,7 +11,7 @@ thumbnail: assets/images/nos obligan.png
 ## Current Projects
 
 {% include figure.html
-  class="left"
+  class="center"
   width="60%"
   caption="From La Revuelta"
   image-path="/assets/images/local feminista.png"
