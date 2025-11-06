@@ -31,7 +31,14 @@ thumbnail: assets/images/nos obligan.png
 [Women, Gender, & Sexuality in Latin America](https://drive.google.com/file/d/1Ho9Ty01Ya6greLQGlbyflkg-q-NcnzBd/view?usp=share_link)
 
 ## Conference Papers
-[El Ultimo Recurso: The Abortion Question in 1970s & 1980s Mexico](https://drive.google.com/file/d/1o8IZQG_nbySAOon9j9LXra1LAf-nPzul/view?usp=share_link) Presented at the Rocky Mountain Council of Latin American Studies, 2024
+[El Ultimo Recurso: The Abortion Question in 1970s & 1980s Mexico](https://drive.google.com/file/d/1o8IZQG_nbySAOon9j9LXra1LAf-nPzul/view?usp=share_link)
+- Presented at the Rocky Mountain Council of Latin American Studies, 2024
+
+[Por el Mundo Católico: Mexican Women, Communism, and the Cold War in Juventud Magazine](https://drive.google.com/file/d/1m8jV_yclHPe1_ycEpmIeGejy048YXMjc/view?usp=share_link)
+- Presented at the Rocky Mountain Council of Latin American Studies, 2021
+
+[Illicit Repertoires: Women's Border Movements during the Mexican Revolution](https://drive.google.com/file/d/18tzHCgVSzYVxOjqWq2zOufeAzp_sI5go/view?usp=share_link)
+- Presented at the Western History Association, 2020
 
 ## Guest Lectures & Research Presentations
 [Contraceptive Uses in Mexico, 1970s-1980s](https://drive.google.com/file/d/1MSDGuFxYyks8DgL6ASuRJvpJ0xdlDHOj/view?usp=share_link)
