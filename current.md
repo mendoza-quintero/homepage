@@ -41,6 +41,8 @@ thumbnail: assets/images/nos obligan.png
 
 [Resumes, CVs, and Cover Letters](https://drive.google.com/file/d/1IGrChNT49MyE2m_eaPEqzzHYG1WVOQse/view?usp=share_link)
 
+[Grad School 101](https://drive.google.com/file/d/1FixQR7gIG9rc5aXhturojNTnqJveB7xO/view?usp=share_link)
+
 [Time Management & Impostor Syndrome](https://drive.google.com/file/d/1IySOTXzCi7n4-zf7WQclB9wGt7UbcRVE/view?usp=share_link)
 
 [Understanding Financial Aid](https://drive.google.com/file/d/1utY_vRsFjc4VKIjzOGW__E2MD6iXDpBJ/view?usp=share_link)
