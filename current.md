@@ -26,13 +26,8 @@ thumbnail: assets/images/nos obligan.png
 - Chapter Four: The Abortion Debate in Mexico
 
 ## Sample Syllabi
-<iframe
-  src="{{ '/assets/pdfs/lawomen-syllabus.pdf' | relative_url }}"
-  width="100%"
-  height="800"
-  style="border:1px solid #ccc;"
-  title="Women, Gender, & Sexuality in Latin America">
-</iframe>
+[Youth & Coubterculture in Cold War Mexico](https://drive.google.com/file/d/1iGlzBYOkGJmKGVG37PBfEjFfO1uoGoPL/view?usp=share_link)
+[Women, Gender, & Sexuality in Latin America](https://drive.google.com/file/d/1Ho9Ty01Ya6greLQGlbyflkg-q-NcnzBd/view?usp=share_link)
 
 ## Conference Papers
 
