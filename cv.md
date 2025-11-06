@@ -14,6 +14,13 @@ Website: [www.mendoza_quintero.com](https://mendoza-quintero.github.io/homepage/
 
 ---
 
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="From La Revuelta"
+  image-path="/assets/images/exigimos.png"
+%}
+
 ## Education
 
 ### Ph.D. Candidate, Latin American History
