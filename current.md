@@ -32,4 +32,15 @@ thumbnail: assets/images/nos obligan.png
 
 ## Conference Papers
 
-## Guest Lectures
+## Guest Lectures & Research Presentations
+[Contraceptive Uses in Mexico, 1970s-1980s](https://drive.google.com/file/d/1MSDGuFxYyks8DgL6ASuRJvpJ0xdlDHOj/view?usp=share_link)
+
+[Presentation on Early Research](https://drive.google.com/file/d/1863Wwq3DaKMV63jjkYch6uEBgGgvbHS0/view?usp=share_link)
+
+[Abortion Debates in Mexico, 1970s-1980s](https://drive.google.com/file/d/18sGiGz4upDMm1asa0fRsQYzCVxg73zJI/view?usp=share_link)
+
+[Resumes, CVs, and Cover Letters](https://drive.google.com/file/d/1IGrChNT49MyE2m_eaPEqzzHYG1WVOQse/view?usp=share_link)
+
+[Time Management & Impostor Syndrome](https://drive.google.com/file/d/1IySOTXzCi7n4-zf7WQclB9wGt7UbcRVE/view?usp=share_link)
+
+[Understanding Financial Aid](https://drive.google.com/file/d/1g-HMomJXIESDtXkJo19yxQNoJcmgB1jY/view?usp=share_link)
