@@ -4,7 +4,7 @@ layout: base
 css:
 homepage: TRUE
 position: 4
-summary: My CV reflects a career at the intersection of creative practice, research, and pedagogy. It documents publications, grants, teaching, and collaborative projects, showing how my work in digital humanities, kinetic sculpture, and public engagement has evolved over time. This record provides insight into the diverse ways I connect scholarship, creativity, and community impact.
+summary: My CV reflects my long academic career. It reflects my personal and professional achievements, but also the grants and awards that have served as both encouragement and validation of my pursuits towards historical knowledge. In addition, I take great pride in the service I have done in my communities, supporting and encouraging other first-generation women of color.
 thumbnail: assets/images/the_shot.png
 ---
 
