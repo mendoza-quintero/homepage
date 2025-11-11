@@ -130,7 +130,7 @@ University of Denver, June 2015
 
 ---
 
-### Lectures & Talks
+## Lectures & Talks
 - "Mexicano tu Puedes: Contraceptive Uses in Mexico in the 1970s & 1980s," 2025.
 - "'Por el Mundo Católico': Women and Communism during Mexico's Long Cold War," 2020.
 - "Graduate School for History Majors," 2019.
