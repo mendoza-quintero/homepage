@@ -124,9 +124,9 @@ University of Denver, June 2015
 - *“Breaking Isolation: Community and Comprehensive Exams”* — American Historical Association, Pacific Coast Branch, Portland, OR (2022).  
 - *“'Por el Mundo Católico': Women and Communism during Mexico's Long Cold War in Juventud Magazine”* — Rocky Mountain Council of Latin American Studies, Virtual (2021).
 - *"Illicit Repertoires: Women's Border Movements during the Mexican Revolution"* - Western History Association, Online (2020).
-- *'El Son de la Negra': Language Disparities and the Myth of Mestizaje for Afro-Mexicans in Postrevolutionary Mexico"* - Louisiana State University History Graduate Student Association Conference, Baton Rouge, LA (2019).
+- *"'El Son de la Negra': Language Disparities and the Myth of Mestizaje for Afro-Mexicans in Postrevolutionary Mexico"* - Louisiana State University History Graduate Student Association Conference, Baton Rouge, LA (2019).
 - *Una Soldada en Cada Hija: An Analysis of Women's Illicit Roles in the Mexican Revolution* - Louisiana State University History Graduate Student Association Conference, Baton Rouge, LA (2018).
-- *"More than Just and Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution* - University of Denver Partners in Scholarship Student Conference, Denver, CO (2014).
+- *"More than Just a Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution* - University of Denver Partners in Scholarship Student Conference, Denver, CO (2014).
 
 ---
 
@@ -134,7 +134,7 @@ University of Denver, June 2015
 - "Mexicano tu Puedes: Contraceptive Uses in Mexico in the 1970s & 1980s," 2025.
 - "'Por el Mundo Católico': Women and Communism during Mexico's Long Cold War," 2020.
 - "Graduate School for History Majors," 2019.
-- "Implication of the Age of Exploration in the Americas," 2018.
+- "Implication of the Age of Exploration in the Americas," 2017.
 - "The Mexican Revolution in a Global Context," 2017.
 
 ---
