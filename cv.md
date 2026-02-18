@@ -4,7 +4,7 @@ layout: base
 css:
 homepage: TRUE
 position: 4
-summary: My CV reflects my long academic career. It reflects my personal and professional achievements, but also the grants and awards that have served as both encouragement and validation of my pursuits towards historical knowledge. In addition, I take great pride in the service I have done in my communities, supporting and encouraging other first-generation women of color.
+summary: My CV reflects my long academic career. It highlights my personal and professional achievements, but also the grants and awards that have served as both encouragement and validation of my pursuits towards historical knowledge. In addition, I take great pride in the service I have done in my communities, supporting and encouraging other first-generation women of color.
 thumbnail: assets/images/the_shot.png
 ---
 
@@ -35,12 +35,12 @@ Examination Fields:
 - Gender & Sexuality in Latin American and the U.S. -- Theory & History, Reproduction, Sex & Sexuality
 
 ### M.A. History
-Louisiana State University, May 2018  
+Louisiana State University, 2018  
 - Thesis: Una Soldado en Cada Hija: An Analysis on Women's Illicit Roles in the Mexican Revolution
 - Chair: Dr. Stephen J. C. Andes  
 
 ### B.A. History, Minors in Political Science & Sociology
-University of Denver, June 2015
+University of Denver, 2015
 - Senior Thesis: More than Just a Pretty Face: How the Adelita Myth Contributed to the Erasure of Women's Involvement in the Mexican Revolution
 - Chair: Dr. Rafael Ioris  
 
@@ -55,8 +55,15 @@ University of Denver, June 2015
 
 ## Professional Experience
 
+### Graduate Project Assistant, Student Activities Center
+*University of New Mexico*, January 2026-Present
+- Plan inclusive and relevant social and academic programming for graduate and professional students on and off campus
+- Assist Dean of Graduate Studies in marketing and creating resources for graduate students
+- Collaborate with the unversity's Graduate and Professional Student Association to create events that help enmesh graduate and professional students into the larger campus culture
+- Work with senior staff to support execution of undergraduate programming
+
 ### Graduate Assistant, Department of History
-*University of New Mexico*, August 2025-Present  
+*University of New Mexico*, August 2025-December 2025  
 - Early Mexico, In Person, Dr. Kimberly Gauderman 
 
 ### Assistant Editor, *The New Mexico Historical Review*
@@ -120,8 +127,10 @@ University of Denver, June 2015
 ---
 
 ## Conferences & Presentations
+- *"'Oponiéndose con un rechazo ciego, cerrado e irracional': National Sex Education Programs in Mexico in the 1970s & 1980s"* - Pacific Coast Branch of the American Historical Association, Las Vegas, NV (2026), forthcoming.
+- *"'Mexicano tu puedes': Nationalism and Contraceptive Use in Mexico in the 1970s & 1980s"* - Rocky Mountain Council of Latin American Studies, Puebla, México (2026), forthcoming.
 - *“El Ultimo Recurso: The Abortion Question in 1970s & 1980s Mexico”* — Rocky Mountain Council of Latin American Studies, Salt Lake City, UT (2024).  
-- *“Breaking Isolation: Community and Comprehensive Exams”* — American Historical Association, Pacific Coast Branch, Portland, OR (2022).  
+- *“Breaking Isolation: Community and Comprehensive Exams”* — Pacific Coast Branch of the American Historical Association, Portland, OR (2022).  
 - *“'Por el Mundo Católico': Women and Communism during Mexico's Long Cold War in Juventud Magazine”* — Rocky Mountain Council of Latin American Studies, Virtual (2021).
 - *"Illicit Repertoires: Women's Border Movements during the Mexican Revolution"* - Western History Association, Online (2020).
 - *"'El Son de la Negra': Language Disparities and the Myth of Mestizaje for Afro-Mexicans in Postrevolutionary Mexico"* - Louisiana State University History Graduate Student Association Conference, Baton Rouge, LA (2019).
