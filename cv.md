@@ -109,12 +109,14 @@ University of Denver, 2015
 ---
 
 ## Awards & Fellowships
+- PCB-AHA Presidents’ Award, July 2026
+- UNM Global Education Office International Travel Grant, April 2026
+- RMCLAS Graduate Student Travel Award, April 2026, March 2024
+- UNM Graduate and Professional Student Association Student Research Grant, April 2026, March 2024
 - Russel J. and Dorothy S. Bilinski PhD Fellowship, June 2024-July 2025
 - UNM Office of Graduate Studies Rogers Research Award, July 2024
 - Mel and Jennifer Yazawa Dissertation Fellowship, June 2024
 - Rockefeller Archive Center Travel Grant, May 2024
-- Rocky Mountain Council of Latin American Studies Graduate Student Travel Award, March 2024
-- UNM Graduate and Professional Student Association Student Research Grant, March 2024
 - UNM Latin American and Iberian Institute PhD Fellowship, August 2022-May 2024
 - UNM Center for Regional Studies Graduate Fellowship, August 2022-May 2023
 - UNM LAII Field Research Grant, May 2020
@@ -127,8 +129,9 @@ University of Denver, 2015
 ---
 
 ## Conferences & Presentations
-- *"'Oponiéndose con un rechazo ciego, cerrado e irracional': National Sex Education Programs in Mexico in the 1970s & 1980s"* - Pacific Coast Branch of the American Historical Association, Las Vegas, NV (2026), forthcoming.
-- *"'Mexicano tu puedes': Nationalism and Contraceptive Use in Mexico in the 1970s & 1980s"* - Rocky Mountain Council of Latin American Studies, Puebla, México (2026), forthcoming.
+- *"'Vámonos Haciendo Menos’: Federal Contraceptive Programs in Mexico in the 1970s & 1980s"* - Panel Organizer, Berkshire Conference of Women Historians, Minneapolis, Minn (2027), proposal submitted.
+- *"'Oponiéndose con un rechazo ciego, cerrado e irracional': National Sex Education Programs in Mexico in the 1970s & 1980s"* - Pacific Coast Branch of the American Historical Association, Las Vegas, NV (2026).
+- *"'Mexicano tu puedes': Nationalism and Contraceptive Use in Mexico in the 1970s & 1980s"* - Panel Organizer, Rocky Mountain Council of Latin American Studies, Puebla, México (2026), forthcoming.
 - *“El Ultimo Recurso: The Abortion Question in 1970s & 1980s Mexico”* — Rocky Mountain Council of Latin American Studies, Salt Lake City, UT (2024).  
 - *“Breaking Isolation: Community and Comprehensive Exams”* — Pacific Coast Branch of the American Historical Association, Portland, OR (2022).  
 - *“'Por el Mundo Católico': Women and Communism during Mexico's Long Cold War in Juventud Magazine”* — Rocky Mountain Council of Latin American Studies, Virtual (2021).
@@ -163,8 +166,7 @@ University of Denver, 2015
 ---
 
 ## Published Works
+- “‘A Responsible Attitude towards Reproduction Could Be Encouraged’: International Aid, Population Control, and Family	Planning in Mexico,” Rockefeller Archive Center Issue Lab, accessed 09 June	2026, [https://rockarch.issuelab.org/resource/a-responsible-attitude-towards-reproduction-could-be-	encouraged-international-aid-population-control-and-family-planning-in-mexico.html.](https://rockarch.issuelab.org/resource/a-responsible-attitude-towards-reproduction-could-be-encouraged-international-aid-population-control-and-family-planning-in-mexico.html)
 - "International Population Control Aid in Mexico in the 1970s & 1980s," Rockefeller Archive Center Research Reports Database, 2025, Forthcoming.
-- Review of Isabella Cossa, “Human Rights and the Status of Children as Victims in the Late Cold War,” *H-Diplo* https://networks.h-net.org/group/discussions/20037923/h-diplo-article-review-1215-quintero	-cosse-human-rights-and-status..  
-- Review of Stephanie Smith *The Power and Politics of Art in Postrevolutionary Mexico,* in *The Civil War Book Review*, 20, no. 2 (Spring 2018), https://digitalcommons.lsu.edu/cwbr/vol20/iss2/21.   
-
----
+- Review of Isabella Cossa, “Human Rights and the Status of Children as Victims in the Late Cold War,” *H-Diplo* [https://networks.h-net.org/group/discussions/20037923/h-diplo-article-review-1215-quintero-cosse-human-rights-and-status.](https://networks.h-net.org/group/discussions/20037923/h-diplo-article-review-1215-quintero-cosse-human-rights-and-status)
+- Review of Stephanie Smith *The Power and Politics of Art in Postrevolutionary Mexico,* in *The Civil War Book Review*, 20, no. 2 (Spring 2018), [https://repository.lsu.edu/cwbr/vol20/iss2/21/.] (https://repository.lsu.edu/cwbr/vol20/iss2/21/)  
